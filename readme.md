@@ -1,0 +1,16 @@
+# [How to program a text adventure in C](https://home.hccnet.nl/r.helderman/adventures/htpataic01.html)
+
+- [x] GCC
+- [x] [Chapter 1](https://home.hccnet.nl/r.helderman/adventures/htpataic01.html)
+- [x] [Chapter 2](https://home.hccnet.nl/r.helderman/adventures/htpataic02.html)
+- [x] [Chapter 3](https://home.hccnet.nl/r.helderman/adventures/htpataic03.html)
+- [ ] [Chapter 4](https://home.hccnet.nl/r.helderman/adventures/htpataic04.html)
+- [ ] [Chapter 5](https://home.hccnet.nl/r.helderman/adventures/htpataic05.html)
+- [ ] [Chapter 6](https://home.hccnet.nl/r.helderman/adventures/htpataic06.html)
+- [ ] [Chapter 7](https://home.hccnet.nl/r.helderman/adventures/htpataic07.html)
+- [ ] [Chapter 8](https://home.hccnet.nl/r.helderman/adventures/htpataic08.html)
+- [ ] [Chapter 9](https://home.hccnet.nl/r.helderman/adventures/htpataic09.html)
+- [ ] [Chapter 10](https://home.hccnet.nl/r.helderman/adventures/htpataic10.html)
+- [ ] [Chapter 11](https://home.hccnet.nl/r.helderman/adventures/htpataic11.html)
+- [ ] [Chapter 12](https://home.hccnet.nl/r.helderman/adventures/htpataic12.html)
+- [ ] [Chapter 13](https://home.hccnet.nl/r.helderman/adventures/htpataic13.html)
